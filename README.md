@@ -1,6 +1,6 @@
 <div align="center">
-![Project Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
-<h1 align="center">Video Automation for Frappé: Scripted Video Creation Simplified</h1>
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
+<h1 align="center">Video Automation: Scripted Video Creation Simplified</h1>
 <p align="center">
 Revolutionizing the creation of instructional videos with automated scripting. 
 <br />
